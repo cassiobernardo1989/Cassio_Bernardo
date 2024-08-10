@@ -8,7 +8,7 @@ Autor: Cassio Bernardo
 
 Super Pet
 
-![](https://upload.wikimedia.org/wikipedia/commons/7/72/ER_Diagram_MMORPG.png)
+![]()
 
 # 2. diagrama do banco de dados
 
