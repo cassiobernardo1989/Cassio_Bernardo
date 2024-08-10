@@ -10,7 +10,7 @@ Super Pet
 
 ![]()
 
-# 2. diagrama do banco de dados
+# 2. Diagrama do banco de dados
 
 ![]()
 
