@@ -38,7 +38,102 @@ Amigo Pet
 ---
 # 2. Diagrama do banco de dados
 
-![]()
+
+```mermaid
+
+erDiagram
+    CLIENTE {
+        int id
+        string nome
+        string telefone
+        string endereco
+        string email
+        int pontos_fidelidade
+    }
+
+    ANIMAL {
+        int id
+        string nome
+        string especie
+        string raca
+        int idade
+        string condicao_chegada
+        string tipo_racao
+        string habitos
+        int cliente_id FK
+    }
+
+    VETERINARIO {
+        int id
+        string nome
+        string especialidade
+        string horario_disponivel
+    }
+
+    ATENDENTE {
+        int id
+        string nome
+        string turno
+    }
+
+    PRONTUARIO {
+        int id
+        string observacoes
+        string receita
+        int animal_id FK
+    }
+
+    AGENDA {
+        int id
+        date data
+        time horario
+        int animal_id FK
+        int veterinario_id FK
+        int atendente_id FK
+    }
+
+    FICHA {
+        int id
+        string detalhes_entrevista
+        int animal_id FK
+    }
+
+    LOJA_PET {
+        int id
+        string nome
+        string descricao
+        float preco
+    }
+
+    HOTEL {
+        int id
+        string nome
+        string tipo_acomodacao
+        float preco
+        int animal_id FK
+    }
+
+    VACINACAO {
+        int id
+        date data
+        string tipo_vacina
+        int animal_id FK
+    }
+
+    CLIENTE ||--o{ ANIMAL: possui
+    ANIMAL ||--o{ PRONTUARIO: possui
+    ANIMAL ||--o{ AGENDA: possui
+    VETERINARIO ||--o{ AGENDA: atende
+    ATENDENTE ||--o{ AGENDA: agenda
+    ANIMAL ||--o{ FICHA: tem
+    PRONTUARIO ||--|| RECEITA: emite
+    CLIENTE ||--o{ LOJA_PET: compra
+    ANIMAL ||--o{ HOTEL: hospeda
+    ANIMAL ||--o{ VACINACAO: recebe
+
+```
+
+
 ---
 # 3. Diagrama de casos de uso
 
