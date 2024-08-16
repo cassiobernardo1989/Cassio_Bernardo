@@ -7,6 +7,7 @@ Sistema para Clínica veterinária
 Autor: Cassio Bernardo
 
 Amigo Pet
+
 1.  Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
 2.  Os clientes devem fazer um cadastro de si e dos animais. 
 3.  Os clientes devem informar as condições nas quais os animais chegam. 
@@ -34,7 +35,6 @@ Amigo Pet
 24. A clinica tem um hotel para cães.
 25. A clinica atende por agendamentos.
 26. A clinica faz a vacinação periodicas dos animais.
-![]()
 ---
 # 2. Diagrama do banco de dados
 
