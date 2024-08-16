@@ -141,6 +141,11 @@ erDiagram
 ---
 # 4. Principais telas do sistema
 
+
+---
+# 5. Arquitetura do sistema
+
+
 ```mermaid
 graph TD
     %% Define os nós
@@ -155,12 +160,6 @@ graph TD
     AplicacaoPHP -->|Consulta/Atualiza Dados| ServidorBD
     AplicacaoPHP -->|Responde a Requisições| ServidorWeb
     ServidorWeb -->|Retorna Resposta| ClienteWeb
-
-```
----
-# 5. Arquitetura do sistema
-
-```
 
 ```
 
