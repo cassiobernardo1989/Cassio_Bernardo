@@ -140,15 +140,15 @@ erDiagram
 ![https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/Diagrama%20sem%20nome.drawio.png](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/Diagrama%20sem%20nome.drawio.png)
 ---
 # 4. Principais telas do sistema
-![Imagem 01]()
+![Imagem 01](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-13%20220157.png)
 
-![Imagem 02]()
+![Imagem 02](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-13%20220233.png)
 
-![Imagem 03]()
+![Imagem 03](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-13%20221151.png)
 
-![Imagem 04]()
+![Imagem 04](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-13%20222536.png)
 
-![Imagem 05]()
+![Imagem 05](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-15%20215312.png)
 ---
 # 5. Arquitetura do sistema
 
