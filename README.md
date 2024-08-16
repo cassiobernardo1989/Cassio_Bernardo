@@ -141,9 +141,26 @@ erDiagram
 ---
 # 4. Principais telas do sistema
 
-![]()
+```mermaid
+graph TD
+    %% Define os nós
+    ClienteWeb[Cliente Web]
+    ServidorWeb[Servidor Web]
+    AplicacaoPHP[Aplicação PHP]
+    ServidorBD[Servidor de Banco de Dados]
+
+    %% Define as conexões entre os nós
+    ClienteWeb -->|Solicita Dados| ServidorWeb
+    ServidorWeb -->|Passa Requisições| AplicacaoPHP
+    AplicacaoPHP -->|Consulta/Atualiza Dados| ServidorBD
+    AplicacaoPHP -->|Responde a Requisições| ServidorWeb
+    ServidorWeb -->|Retorna Resposta| ClienteWeb
+
+```
 ---
 # 5. Arquitetura do sistema
 
-![]()
+```
+
+```
 
