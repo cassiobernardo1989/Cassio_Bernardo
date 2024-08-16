@@ -140,95 +140,15 @@ erDiagram
 ![https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/Diagrama%20sem%20nome.drawio.png](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/Diagrama%20sem%20nome.drawio.png)
 ---
 # 4. Principais telas do sistema
+![Imagem 01]()
 
-```
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cadastro de Pets</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-        }
-        .bar1 {
-            background-color: #4CAF50;
-            color: white;
-            padding: 15px;
-            text-align: center;
-            font-size: 24px;
-        }
-        .bar2 {
-            background-color: #f1f1f1;
-            padding: 10px;
-            border-bottom: 1px solid #ccc;
-            display: flex;
-            justify-content: space-around;
-            align-items: center;
-        }
-        .bar2 button {
-            background: none;
-            border: none;
-            cursor: pointer;
-            font-size: 16px;
-            margin: 0 5px;
-        }
-        .bar2 i {
-            font-size: 18px;
-        }
-        .bar2 button:hover {
-            color: #4CAF50;
-        }
-        .campos1 {
-            padding: 20px;
-        }
-        .campos1 label {
-            display: block;
-            margin-bottom: 5px;
-            font-weight: bold;
-        }
-        .campos1 input {
-            width: 100%;
-            padding: 8px;
-            margin-bottom: 15px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
-        }
-    </style>
-</head>
-<body>
-    <div class="bar1">
-        Cadastro de Pets
-    </div>
-    <div class="bar2">
-        <button><i class="fa fa-search" aria-hidden="true"></i> Pesquisar</button>
-        <button><i class="fa fa-floppy-o" aria-hidden="true"></i> Salvar</button>
-        <button><i class="fa fa-print" aria-hidden="true"></i> Imprimir</button>
-        <button><i class="fa fa-trash" aria-hidden="true"></i> Deletar</button>
-        <button><i class="fa fa-pencil" aria-hidden="true"></i> Editar</button>
-        <button><i class="fa fa-sign-out" aria-hidden="true"></i> Sair</button>
-    </div>
-    <div class="campos1">
-        <label for="petId">Id do Pet</label>
-        <input type="text" id="petId" name="petId">
-        
-        <label for="petName">Nome do Pet</label>
-        <input type="text" id="petName" name="petName">
-        
-        <label for="petBreed">Raça do Pet</label>
-        <input type="text" id="petBreed" name="petBreed">
-        
-        <label for="petOwner">Dono do Pet</label>
-        <input type="text" id="petOwner" name="petOwner">
-    </div>
-</body>
-</html>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+![Imagem 02]()
 
-```
+![Imagem 03]()
+
+![Imagem 04]()
+
+![Imagem 05]()
 ---
 # 5. Arquitetura do sistema
 
