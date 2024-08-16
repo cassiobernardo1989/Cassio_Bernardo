@@ -149,6 +149,14 @@ erDiagram
 ![Imagem 04](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-13%20222536.png)
 
 ![Imagem 05](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-15%20215312.png)
+
+![Imagem 06](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-13%20220157.png)
+
+![Imagem 07](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-13%20220157.png)
+
+![Imagem 08](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-13%20220157.png)
+
+![Imagem 09](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-13%20220157.png)
 ---
 # 5. Arquitetura do sistema
 
