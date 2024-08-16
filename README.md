@@ -152,6 +152,9 @@ erDiagram
 
 ![Imagem 06](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-15%20222152.png)
 
+![Imagem 07](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-15%20222216.png)
+
+![Imagem 08](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-15%20222152.png)
 ---
 
 # 5. Arquitetura do sistema
