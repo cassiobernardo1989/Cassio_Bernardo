@@ -1,7 +1,7 @@
 # Cassio_Bernardo
 Projeto engenharia software marcelandia
 ---
-# 1. Descrição do Sistema
+# 1. Descrição do Sistema.
 Sistema para Clínica veterinária
 
 Autor: Cassio Bernardo
@@ -11,7 +11,7 @@ Amigo Pet
 1.  Uma clínica veterinária atende apenas os animais: gatos e cachorros. 
 2.  Os clientes devem fazer um cadastro de si e dos animais. 
 3.  Os clientes devem informar as condições nas quais os animais chegam. 
-4.  Os clientes devem informar o tipo de ração que o animal come. 
+4.  Os clientes devem informar o tipo de ração que o animal consome. 
 5.  O cliente deve informar hábitos do animal. 
 6.  Para cada animal é possível que mais de um veterinário o atenda. 
 7.  Os animais podem chegar e serem atendidos de acordo com uma agenda do dia. 
@@ -27,16 +27,16 @@ Amigo Pet
 16. O veterinário deverá examinar o animal e anotar em prontuário(ficha) suas observações. 
 17. Dependendo da situação do animal este receberá uma receita.
 18. A clinica funcionara das 8:00 as 19:00 h.
-19. A clinica tem plantões depois das 19:00h
+19. A clinica tem plantões depois das 19:00h até as 24:00h.
 20. A clinica havera programas de fidelidade para clientes.
-21. Temos uma loja para Petz.
+21. Temos uma loja para os animais.
 22. Programa de pontos para Clientes.
-23. Atendimento a domicilio.
-24. A clinica tem um hotel para cães.
+23. Atendimento a domicílio.
+24. A clinica tem um hotel para cães e gatos.
 25. A clinica atende por agendamentos.
 26. A clinica faz a vacinação periodicas dos animais.
 ---
-# 2. Diagrama do banco de dados
+# 2. Diagrama do Banco de Dados.
 
 
 ```mermaid
@@ -135,15 +135,15 @@ erDiagram
 
 
 ---
-# 3. Diagrama de casos de uso
+# 3. Diagrama de Casos de Uso.
 
 ![imagem 08](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Diagrama%20sem%20nome.drawio.png)
 
 
 ---
-# 4. Principais telas do Sistema.
+# 4. Principais Telas do Sistema.
 
-# 4.1 Construção.
+# 4.1 Construção:
 
 
 ![Imagem 01](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-13%20220157.png)
@@ -154,7 +154,7 @@ erDiagram
 
 ![Imagem 04](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-13%20222536.png)
 
-# 4.2 Resultado.
+# 4.2 Resultado:
 
 
 ![Imagem 05](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/imagens/Captura%20de%20tela%202024-08-15%20222152.png)
@@ -166,7 +166,7 @@ erDiagram
 
 ---
 
-# 5. Arquitetura do sistema
+# 5. Arquitetura do Sistema.
 
 
 ```mermaid
