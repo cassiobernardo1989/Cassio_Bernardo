@@ -137,7 +137,9 @@ erDiagram
 ---
 # 3. Diagrama de casos de uso
 
-![https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/Diagrama%20sem%20nome.drawio.png](https://github.com/cassiobernardo1989/Cassio_Bernardo/blob/main/Diagrama%20sem%20nome.drawio.png)
+![https://github.com/cassiobernardo1989/Cassio_Bernardo/tree/main/imagens](https://github.com/cassiobernardo1989/Cassio_Bernardo/tree/main/imagens)
+
+
 ---
 # 4. Principais telas do sistema.
 
